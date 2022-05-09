@@ -1,7 +1,20 @@
-# menuindicator 
+# Indicator Menu
 
-Interactive menu, where clicking on the desired icon changes the menu style. This project integrates HTML, CSS and Js technologies.
+indicator menu is a responsive menu design where it shows the user with an animation which menu is selected. Code made from a Youtube class.
 
-Code from YouTube video.
+indicator menu é um projeto de um menu responsivo onde mostra ao usuário com uma animação qual dos menus está selecionado. Código feito a partir de uma aula no Youtube.
 
-Link for the tutorial: https://www.youtube.com/watch?v=ArTVfdHOB-M&t=755s&ab_channel=OnlineTutorials
+### Cloning
+
+- Go to the folder you want to clone the repository
+- Enter the command ```git clone https://github.com/alisson-co/indicator-menu.git```
+- And open the file **index.html** in your browser
+
+### Used Technoligies
+- HTML
+- JavaScript
+- CSS
+
+![preview img](https://github.com/alisson-co/indicator-menu/blob/master/indicator.jpg)
+
+[Link to the class on Youtube](https://www.youtube.com/watch?v=ArTVfdHOB-M&list=WL&index=5&ab_channel=OnlineTutorials)
